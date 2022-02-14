@@ -1,0 +1,17 @@
+#navbar {
+    height: 100%;  
+    position: fixed;  
+    top: 0; 
+    left: 0;
+
+  }
+
+
+@media screen and (max-width: 450px) {
+  #navbar {
+    height: 100%;  
+    position: fixed;  
+    top: 0; 
+    right: 50%;
+  }
+}
